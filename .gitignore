@@ -1,0 +1,9 @@
+# ignore the gallery directory
+gallery/
+
+# jupyter notebooks
+.ipynb_checkpoints
+*.ipynb
+
+# temporary testing files
+demo.py
